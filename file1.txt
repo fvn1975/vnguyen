@@ -1,3 +1,6 @@
+1/29/2016 Jill changes
+
+
 Notepad++ v5.6.8 new features and fixed bugs (from v5.6.7) :
 
 1.  Fix comment stream without selection bug.
