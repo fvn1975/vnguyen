@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 1/29/2016 Jack changes.
+=======
+1/29/2016 Jill changes
+
+>>>>>>> d50d5a5ff3dcd3d0f1e7430e28c3f733380ab161
 
 Notepad++ v5.6.8 new features and fixed bugs (from v5.6.7) :
 
